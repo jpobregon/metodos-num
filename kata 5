@@ -1,0 +1,14 @@
+def minMaxLengthAverage(list):
+    list =[6,9,15,-2,92,11] 
+avg = (sum(list)/len(list))
+print([min(list),max(list),len(list),avg])
+
+def sum_two_smallest_nums(list):
+    list = [19, 5, 42, 2, 77]
+print(sorted(list))
+
+list[1,2,3]
+x = 1
+y = (x+2)
+z = (y+3)
+print ([x,y,z])
